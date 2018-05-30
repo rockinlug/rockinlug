@@ -1,8 +1,9 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rockafisha.com" resolutions="1x" timestamp="1527693776321">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rockafisha.com" resolutions="1x" timestamp="1527695989738">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="24634696" ref="index"/>
-    <file name="lost-in-time.css" crc="499033588" ref="lost-in-time"/>
+    <file name="index.css" crc="3840819695" ref="index"/>
+    <file name="lost-in-time.css" crc="3905481206" ref="lost-in-time"/>
+    <file name="_______.css" crc="274864481" ref="история"/>
   </folder>
   <folder name="fonts">
     <file name="roboto-black.woff" crc="388774813"/>
@@ -16,21 +17,22 @@
     <file name="roboto-thin.svg" crc="4255772241"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lost-in-time"/>
-    <file name="museutils.js" crc="4232573551" ref="index:lost-in-time"/>
-    <file name="whatinput.js" crc="86476730" ref="index:lost-in-time"/>
-    <file name="museconfig.js" crc="3849126041" ref="index:lost-in-time"/>
-    <file name="require.js" crc="4234670167" ref="index:lost-in-time"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lost-in-time:история"/>
+    <file name="museutils.js" crc="4232573551" ref="index:lost-in-time:история"/>
+    <file name="whatinput.js" crc="86476730" ref="index:lost-in-time:история"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:lost-in-time:история"/>
+    <file name="require.js" crc="4234670167" ref="index:lost-in-time:история"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:lost-in-time"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="3xomp1uwjei.jpg" crc="3980735656" seo="true" ref="index">
+    <file name="3xomp1uwjei.jpg" crc="94989281" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="o9fxdubkeuw.jpg" crc="4077658058" ref="index">
+    <file name="o9fxdubkeuw.jpg" crc="3891134765" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="nl1_wkwvrzm.jpg" crc="152060038" ref="index">
+    <file name="nl1_wkwvrzm.jpg" crc="3820635352" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="вставленное изображение 601x148.jpg" crc="3872093798" seo="true" ref="lost-in-time">
@@ -39,7 +41,11 @@
     <file name="uljzym46730.jpg" crc="3948300812" ref="lost-in-time">
       <caption webpage="lost-in-time" alt=""/>
     </file>
+    <file name="вставленное изображение 1600x900-crop-u372.jpg" crc="4032894915" seo="true" ref="история">
+      <caption webpage="история" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="530677277" seo="true" mt="1527693249787" redirect="true"/>
-  <file name="lost-in-time.html" crc="4152860861" seo="true" mt="1527693722185" redirect="true"/>
+  <file name="index.html" crc="4242240628" seo="true" mt="1527695909452" redirect="true"/>
+  <file name="lost-in-time.html" crc="4145805353" seo="true" mt="1527695954517" redirect="true"/>
+  <file name="история.html" crc="212199829" seo="true" mt="1527695835857" redirect="true"/>
 </manifest>
