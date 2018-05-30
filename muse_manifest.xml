@@ -1,0 +1,45 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rockafisha.com" resolutions="1x" timestamp="1527693776321">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="24634696" ref="index"/>
+    <file name="lost-in-time.css" crc="499033588" ref="lost-in-time"/>
+  </folder>
+  <folder name="fonts">
+    <file name="roboto-black.woff" crc="388774813"/>
+    <file name="roboto-black.eot" crc="4167396660"/>
+    <file name="roboto-black.svg" crc="3967395432"/>
+    <file name="roboto-bold.woff" crc="74621927"/>
+    <file name="roboto-bold.eot" crc="395037782"/>
+    <file name="roboto-bold.svg" crc="435940150"/>
+    <file name="roboto-thin.woff" crc="3981980878"/>
+    <file name="roboto-thin.eot" crc="169623449"/>
+    <file name="roboto-thin.svg" crc="4255772241"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:lost-in-time"/>
+    <file name="museutils.js" crc="4232573551" ref="index:lost-in-time"/>
+    <file name="whatinput.js" crc="86476730" ref="index:lost-in-time"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:lost-in-time"/>
+    <file name="require.js" crc="4234670167" ref="index:lost-in-time"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:lost-in-time"/>
+  </folder>
+  <folder name="images">
+    <file name="3xomp1uwjei.jpg" crc="3980735656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="o9fxdubkeuw.jpg" crc="4077658058" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nl1_wkwvrzm.jpg" crc="152060038" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вставленное изображение 601x148.jpg" crc="3872093798" seo="true" ref="lost-in-time">
+      <caption webpage="lost-in-time" alt=""/>
+    </file>
+    <file name="uljzym46730.jpg" crc="3948300812" ref="lost-in-time">
+      <caption webpage="lost-in-time" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="530677277" seo="true" mt="1527693249787" redirect="true"/>
+  <file name="lost-in-time.html" crc="4152860861" seo="true" mt="1527693722185" redirect="true"/>
+</manifest>
